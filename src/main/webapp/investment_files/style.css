@@ -101,7 +101,7 @@ img {
 h1, h2, h3, h4, h5, h6{
 	font-weight:400;
 	margin:0;
-	 color:#0000000; 
+	 color:#000000; 
 }
 	
 h1 {
@@ -2157,6 +2157,7 @@ body .ui-tooltip {
 	margin-left: -4px;
 	position: absolute;
 }
+/*
 .camera_prev, .camera_next, .camera_commands {
 	cursor: pointer;
 	height: 40px;
@@ -2221,6 +2222,7 @@ body .ui-tooltip {
 	position: relative;
 	width: 100%;
 }
+*/
 .camera_commands_emboss .camera_thumbs_cont {
 	-moz-box-shadow:
 		0px 1px 0px rgba(255,255,255,1),

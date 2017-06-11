@@ -23,7 +23,7 @@ public class CriarConexao extends HttpServlet {
 	   System.out.print("---CONNECTOU----");
 
 return DriverManager.getConnection("jdbc:mysql://127.0.250.1:3306/del","admin3viB6Su","9L3AZwCfUWmw");
-
+	   
 		} catch (SQLException e){
 			System.out.print("===CATCH A CONNECTACAO===="+ e);
 			throw new SQLException(e);

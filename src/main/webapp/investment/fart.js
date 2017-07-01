@@ -4,8 +4,7 @@ jQuery( document ).ready(function() {
 			
 		e.stopPropagation();
 
-		// toggle main menu
-		
+		// toggle main menu	
 		if ( jQuery(window).width() < 800 ) {
 
 			var parentOffset = jQuery(this).parent().offset(); 

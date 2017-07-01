@@ -12,12 +12,11 @@
 <link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Feed" href="http://del-aquilainvestment.rhcloud.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Comments Feed" href="http://del-aquilainvestment.rhcloud.com/comments/feed/">	
  
- 
- <link rel="stylesheet" id="fart-style-css" href="investment_files/style.css" type="text/css" media="all">
- <script type="text/javascript" src="investment_files/jquery_002.js"></script>
- <script type="text/javascript" src="investment_files/fart.js"></script>
- <script type="text/javascript" src="investment_files/jquery_003.js"></script>
- <script type="text/javascript" src="investment_files/camera.js"></script>
+ <link rel="stylesheet" id="fart-style-css" href="investment/style.css" type="text/css" media="all">
+ <script type="text/javascript" src="investment/jquery_002.js"></script>
+ <script type="text/javascript" src="investment/fart.js"></script>
+ <script type="text/javascript" src="investment/jquery_003.js"></script>
+ <script type="text/javascript" src="investment/camera.js"></script>
  <style>
       img{
         display: block;
@@ -43,11 +42,11 @@
 					<table><tbody><tr><td>   
 					    <!-- Button to open the modal login form -->						
 	                                    <button onclick="document.getElementById('id01').style.display='block'" >
-                                            <img src="investment_files/botaoLog.jpg" class="dell"></button> 
+                                            <img src="investment/botaoLog.jpg" class="dell"></button> 
 					    </td><td> 
-					    <img src="investment_files/Investiment.jpg" class="dell">						
+					    <img src="investment/Investiment.jpg" class="dell">						
                         </td><td> 
-					    <img src="investment_files/galvao.jpg" class="dell" >
+					    <img src="investment/galvao.jpg" class="dell" >
 					    </td></tr></table> <br>
 				    
                  <center> <table><tbody><tr><td> 
@@ -61,7 +60,7 @@
                         <div class="imgcontainer">
                             <span onclick="document.getElementById('id01').style.display='none'"
                                                class="close" title="Close Modal">&times;</span>
-                            <img src="investment_files/grande.jpg" alt="Avatar" class="avatar">
+                            <img src="investment/grande.jpg" alt="Avatar" class="avatar">
                            </div>
                             <div class="container">
                                  <label><b>Username</b></label>
@@ -93,15 +92,15 @@
 			<!--</header>--><!-- #header-main-fixed -->	
 	
 	    <div class="camera_wrap camera_emboss" id="camera_wrap">
-	       <div data-thumb="investment_files/plant.jpg" data-src="investment_files/plant.jpg">
+	       <div data-thumb="investment/plant.jpg" data-src="investment/plant.jpg">
 		   <div class="camera_caption fadeFromBottom">
 		   <center><h1>Family Office</h1><h3>Manages the assets of its founders.</h3><br></center>						
 		   </div></div>
-		   <div data-thumb="investment_files/fish.jpg" data-src="investment_files/fish.jpg">
+		   <div data-thumb="investment/fish.jpg" data-src="investment/fish.jpg">
 		   <div class="camera_caption fadeFromBottom">
 		   <center><h1>Emerging Markets Specialist</h1><h3>Provides specialist and  advisory services to other Family Offices and High Net Worth Individuals.</h3><br></center>						
 		   </div></div>
-		   <div data-thumb="investment_files/volcane.jpg" data-src="investment_files/volcane.jpg">
+		   <div data-thumb="investment/volcane.jpg" data-src="investment/volcane.jpg">
 		   <div class="camera_caption fadeFromBottom">
 		   <center><h1>For further Information Contact us: </h1><h3>info@dellaquilainvestments.com</h3><br></center>						
 		   </div></div>

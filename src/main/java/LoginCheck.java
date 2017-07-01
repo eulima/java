@@ -1,5 +1,4 @@
 
-
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -15,21 +14,17 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-
 @WebServlet("/LoginCheck")
 public class LoginCheck extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-	//private static final LoginCheck ll = null;
-	
+	//private static final LoginCheck ll = null;	
 	public LoginCheck() {
-        super();
-       
+        super();      
     }
   
 	Connection con;
 	PreparedStatement pst = null;
  	ResultSet rs = null;
-
 
 		 // response.getWriter().append("Served at: ").append(request.getContextPath());   
 	

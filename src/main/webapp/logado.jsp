@@ -11,9 +11,8 @@
 <link rel="dns-prefetch" href="http://s.w.org/">
 <link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Feed" href="http://del-aquilainvestment.rhcloud.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Comments Feed" href="http://del-aquilainvestment.rhcloud.com/comments/feed/">	
- 
- 
- <link rel="stylesheet" id="fart-style-css" href="investment_files/style.css" type="text/css" media="all">
+  
+ <link rel="stylesheet" id="fart-style-css" href="investment/style.css" type="text/css" media="all">
 
  <style>
       img{
@@ -38,13 +37,14 @@
 		<div id="header-logo"> 
 					    
 					  <table><tbody><tr><td> 
-					    <img src="investment_files/Investiment.jpg" class="dell">						
+					    <img src="investment/Investiment.jpg" class="dell">						
                         </td><td> 
-					    <img src="investment_files/galvao.jpg" class="dell" >
+					    <img src="investment/galvao.jpg" class="dell" >
 					    </td></tr></tbody></table><br>
 				    
                  <center>  <table><tbody><tr><td>
-                    <h2>What do you want to do ?  Since you are Log In ?</h2> 
+                    <h2>What do you want to do ? <p>
+                     You are Log In ...</h2> 
                     </td></tr></tbody></table> </center>
 	
     <p>
@@ -54,9 +54,9 @@
 			<!--</header>--><!-- #header-main-fixed -->	
 			 <table><tbody><tr><td> 
 					    						
-                        </td><td> 
+             </td><td> 
 					    
-					    </td></tr></tbody></table><br>
+		 </td></tr></tbody></table><br>
    
 			    <footer id="footer-main">	
 					<div id="copyright">

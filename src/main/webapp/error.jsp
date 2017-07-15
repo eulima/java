@@ -4,12 +4,12 @@
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta charset="UTF-8">
 
-<link rel="pingback" href="http://del-aquilainvestment.rhcloud.com/xmlrpc.php">
+<link rel="pingback" href="http://de-aquilainvestment.rhcloud.com/xmlrpc.php">
 <title>Dell'Aquila Investments – Dell'Aquila Investments.Management for family office. Manages the assets of its founders.</title>
 <meta name="description" content="Dell'Aquila Investments.Management for family office. Manages the assets of its founders.">
 <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
 <link rel="dns-prefetch" href="http://s.w.org/">
-<link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Feed" href="http://del-aquilainvestment.rhcloud.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Feed" href="http://de-aquilainvestment.rhcloud.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="Dell'Aquila Investments » Comments Feed" href="http://del-aquilainvestment.rhcloud.com/comments/feed/">	
  
  <link rel="stylesheet" id="fart-style-css" href="investment/style.css" type="text/css" media="all">

@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 
 <link rel="pingback" href="http://del-aquilainvestment.rhcloud.com/xmlrpc.php">
-<title>Dell'Aquila Investments – Dell'Aquila Investments.Management for family office. Manages the assets of its founders.</title>
+<title>Dell'Aquila Investments</title>
 <meta name="description" content="Dell'Aquila Investments.Management for family office. Manages the assets of its founders.">
 <link rel="dns-prefetch" href="http://fonts.googleapis.com/">
 <link rel="dns-prefetch" href="http://s.w.org/">

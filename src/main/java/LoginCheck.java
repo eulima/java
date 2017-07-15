@@ -20,8 +20,7 @@ public class LoginCheck extends HttpServlet {
 	//private static final LoginCheck ll = null;	
 	public LoginCheck() {
         super();      
-    }
-  
+    } 
 	Connection con;
 	PreparedStatement pst = null;
  	ResultSet rs = null;

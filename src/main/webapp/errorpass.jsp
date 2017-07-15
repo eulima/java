@@ -42,15 +42,15 @@
 					  <table><tbody><tr><td>  
 					    <!-- Button to open the modal login form -->						
 	                                    <button onclick="document.getElementById('id01').style.display='block'" >
-                                            <img src="investment_files/botaoLog.jpg" class="dell"></button> 
+                                            <img src="investment/botaoLog.jpg" class="dell"></button> 
 					    </td><td> 
 					    <img src="investment/Investiment.jpg" class="dell">						
                         </td><td> 
 					    <img src="investment/galvao.jpg" class="dell" >
 					    </td></tr></table>
 				    
-                  <center> <table><tbody><tr><td> 
-                    <h5>Your User ID or Password is incorret!  Try again.</h5> </td></tr></tbody></table> </center> 
+                  <center> <table bgcolor="red"><tbody><tr><td> 
+                    <h5>Your User ID or Password is incorret !!  Try again.</h5> </td></tr></tbody></table> </center> 
 				 <!--	</div> coloquei isso -->
                  <!-- The Modal -->
                     <div id="id01" class="modal">
